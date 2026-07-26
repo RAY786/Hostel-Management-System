@@ -12,6 +12,7 @@ if(isset($_POST['prfl']))
 
 <html>
 <head>
+<?php include('speed-insights.php'); ?>
 <script>
 function go()
 {

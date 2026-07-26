@@ -11,6 +11,7 @@ if($_SESSION['user']=="")
 ?>
 <html>
 <head>
+<?php include('speed-insights.php'); ?>
 <title>Sample School Project</title>
 <link rel="stylesheet" type="text/css" href="engine/css/slideshow.css" media="screen" />
 	<style type="text/css">.slideshow a#vlb{display:none}</style>
