@@ -83,6 +83,7 @@ if(isset($_POST['display']))
 ?>
 <html>
 <head>
+<?php include('speed-insights.php'); ?>
 <script>
 	function go()
 	{
